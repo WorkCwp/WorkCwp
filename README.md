@@ -12,7 +12,7 @@
 
 ### :8ball: Directorios:
 <p align="center">
-<a href="https://youtube.com/@WorkCwp"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@WorkCwp" /><br>
+<a href="https://youtube.com/@Criwilop"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@Criwilop" /><br>
 <a href="https://whatsapp.com/channel/0029Var8MeMFcow0snkoLy2R"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029Var8MeMFcow0snkoLy2R" /><br>
 <a href="https://chat.whatsapp.com/EjdIzXmiHreFkPAvx3mEHH"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
