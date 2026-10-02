@@ -78,7 +78,7 @@
 ### 📌 Repos Destacados
 
 <p align="center">
-  <a href="https://github.com/WorkCwp/Criwilop-Bot-MD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WorkCwp&repo=Criwilop-Bot-MD&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/WorkCwp/POKE-BOT-INFO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WorkCwp&repo=Criwilop-Bot-MD&theme=tokyonight&hide_border=true" /></a>
   <a href="https://github.com/WorkCwp/WorkCwp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WorkCwp&repo=WorkCwp&theme=tokyonight&hide_border=true" /></a>
 </p>
 
